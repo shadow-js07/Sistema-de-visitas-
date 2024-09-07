@@ -1,0 +1,6 @@
+C:\Users\jsros\source\repos\Sistema de visitas\D_Visitas\bin\Debug\D_Visitas.dll
+C:\Users\jsros\source\repos\Sistema de visitas\D_Visitas\bin\Debug\D_Visitas.pdb
+C:\Users\jsros\source\repos\Sistema de visitas\D_Visitas\obj\Debug\D_Visitas.csproj.AssemblyReference.cache
+C:\Users\jsros\source\repos\Sistema de visitas\D_Visitas\obj\Debug\D_Visitas.csproj.CoreCompileInputs.cache
+C:\Users\jsros\source\repos\Sistema de visitas\D_Visitas\obj\Debug\D_Visitas.dll
+C:\Users\jsros\source\repos\Sistema de visitas\D_Visitas\obj\Debug\D_Visitas.pdb
